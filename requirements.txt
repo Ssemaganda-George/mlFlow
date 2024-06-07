@@ -1,0 +1,6 @@
+touch requirements.txt
+mlflow
+scikit-learn
+pandas
+numpy
+jupyter
