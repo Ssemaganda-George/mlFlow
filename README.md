@@ -1,6 +1,8 @@
 # mlFlow
-Github Actions
-ml flow with actions
+This repo contains;
+A Github Actions
+ML flow with actions
+And an CI/CD pipe line.
 
 
 Requirements;
