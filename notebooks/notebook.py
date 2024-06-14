@@ -7,5 +7,9 @@ from src.mlflow_tracking import train_and_log_model
 data = pd.read_csv('../data/dataset.csv')
 display(data.head())
 
+display(data.tail())
+
+display(data.shape())
+
 # Run training and log model
 train_and_log_model()
