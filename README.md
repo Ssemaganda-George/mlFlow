@@ -1,12 +1,11 @@
 # mlFlow
 This repo contains;
-A Github Actions
+Github Actions
 ML flow with actions
 And an CI/CD pipe line.
 
 
 Requirements;
-
 mlflow
 scikit-learn
 pandas
