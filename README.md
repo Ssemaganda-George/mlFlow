@@ -6,11 +6,11 @@ And an CI/CD pipe line.
 
 
 Requirements;
-mlflow
-scikit-learn
-pandas
-numpy
-jupyter
+- mlflow
+- scikit-learn
+- pandas
+- numpy
+- jupyter
 
 
 
