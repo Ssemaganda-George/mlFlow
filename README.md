@@ -11,7 +11,3 @@ Requirements;
 - pandas
 - numpy
 - jupyter
-
-
-
-
